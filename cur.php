@@ -1,0 +1,1 @@
+<img src="pic/cur.jpg" width="164" height="54" align="middle" />
